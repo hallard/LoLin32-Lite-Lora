@@ -1,4 +1,4 @@
-# ESP32 WeMos LoLin32-Lite Shield for HopeRF RFM95 RFM96 RFM98 or RN2483/RN2903 Lora Modules
+# ESP32 LoLin32 Lite Lora Shield for RFM95 or RN2483
 
 This shield is used to hold LoRa modules such as HopeRF [RFM95][4] or Mictrochip [RN2483][7] with WeMos ESP32 [LoLin32-Lite][22] boards it has the followong features:
 - I2C Pullups placement
@@ -69,7 +69,7 @@ And as classic advice, **connect the LoRa antenna before powering** the board to
 
 # Firmware  
 
-there is no firmware available[firmware](https://github.com/hallard/LoLin32-Lite-Lora/tree/master/firmware)  
+There is no firmware available, but you can have a large demo of features and a full working LoRa node (with RFM95) with this excellent [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter/) software, it's a must see.
 
 # Boards  
 
